@@ -231,14 +231,15 @@ This will interpolate the format string with the value of methods `name.lastName
   * directoryPath
   * filePath
   * semver
-* bajaj
-  * pulsar 220
-  * pulsar 220 fi
-  * pulsar 200ns
-  * pulsar 200ns fi
-  * pulsar dominor 400
-  * pulsar dominor 250
-  * pulsar 150
+* bikes
+  * bajaj
+  * tvs
+  * bmw
+  * ktm
+  * hero
+  * honda
+  * yamaha
+
 
 ## Localization
 
