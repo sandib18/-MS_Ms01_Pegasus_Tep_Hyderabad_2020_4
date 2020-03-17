@@ -1,4 +1,4 @@
-# CHANGELOG
+## CHANGELOG
 
 See commit history on Github for change history
 http://github.com/marak/faker.js
