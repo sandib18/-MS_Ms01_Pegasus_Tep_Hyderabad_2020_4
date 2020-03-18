@@ -2,5 +2,5 @@
 var Faker = require('./lib');
 var faker = new Faker({ locales: require('./lib/locales') });
 module['exports'] = faker;
-console.log(faker.bikes.year())
+console.log(faker.bikes.brake());
 
